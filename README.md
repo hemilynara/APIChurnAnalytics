@@ -49,6 +49,14 @@ Abordagem Monolítica: O projeto está implementado como uma aplicação monolí
    - **Menos Dependências Externas**: Menos dependências entre serviços simplificam a manutenção e a solução de problemas.
    - **Desenvolvimento e Atualizações**: Atualizações e novos recursos podem ser implementados em um único projeto.
 
+### Futuro Planejado
+Integração de Microserviços: Em breve, planejamos integrar microserviços em uma nova camada dedicada a feedback e informações adicionais. Essa abordagem trará vários benefícios, como:
+
+- Escalabilidade Granular: Permite escalar componentes específicos da API de forma independente, otimizando o uso de recursos.
+- Manutenção Simplificada: Facilita a atualização e manutenção de funcionalidades específicas sem impactar o sistema como um todo.
+- Desempenho Melhorado: Distribui a carga de trabalho, melhorando a eficiência e a resposta da API.
+- Organização Aprimorada: Melhora a modularidade e a clareza do código, facilitando o desenvolvimento e a integração de novas funcionalidades.
+
 ### Instruções para Rodar a API
 
 Pré-requisitos:
